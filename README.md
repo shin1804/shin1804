@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/shin1804"><img src="https://api.daily.dev/devcards/33dc9bef1965485e99a10dc0cea7ad46.png?r=iat" width="400" alt="Tuyên Nguyễn's Dev Card"/></a>
+
 <!--
 **shin1804/shin1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
